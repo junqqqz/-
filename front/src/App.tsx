@@ -162,13 +162,7 @@ function App() {
       <div className="header">
         <h1>在线文档协作编辑</h1>
         <div>
-          <span>作者：forrest酱</span>&nbsp;&nbsp;&nbsp;&nbsp;
-          <span>
-            掘金主页：
-            <a href="https://juejin.cn/user/3421335917699335/posts">
-              https://juejin.cn/user/3421335917699335/posts
-            </a>
-          </span>
+          <span>作者:junqqqz</span>&nbsp;&nbsp;&nbsp;&nbsp;
         </div>
       </div>
       <div className="container">
